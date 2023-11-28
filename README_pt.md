@@ -5,7 +5,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### 👨‍🚀 &nbsp;About Me
+### 👨‍🚀 &nbsp;Sobre mim
 
 &nbsp;&nbsp;&nbsp;👷 &nbsp;Atualmente trabalhando como Engenheiro de Front-End na [Saa Software](http://saasoftware.com.br/). \
 &nbsp;&nbsp;&nbsp;🤩 &nbsp;Amor pela ciência e inovação.\
