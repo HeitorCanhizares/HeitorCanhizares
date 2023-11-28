@@ -1,19 +1,19 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header_pt.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> Inglês</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 ### 👨‍🚀 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👷 &nbsp;Currently working as a Front-End Engineer at [Saa Software](http://saasoftware.com.br/). \
-&nbsp;&nbsp;&nbsp;🤩 &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;📋 &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;⚒️ &nbsp;Coding since 2021\
-&nbsp;&nbsp;&nbsp;👪 &nbsp;Living in Brazil with 2 cats 🐈 and my parents\
-&nbsp;&nbsp;&nbsp;🏋️ &nbsp;Working out almost every day.
+&nbsp;&nbsp;&nbsp;👷 &nbsp;Atualmente trabalhando como Engenheiro de Front-End na [Saa Software](http://saasoftware.com.br/). \
+&nbsp;&nbsp;&nbsp;🤩 &nbsp;Amor pela ciência e inovação.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Apaixonado por resolução de problemas e automação de rotinas diárias.\
+&nbsp;&nbsp;&nbsp;📋 &nbsp;Atualmente pesquisando sobre arquitetura de software, desenvolvimento e qualidade.\
+&nbsp;&nbsp;&nbsp;⚒️ &nbsp;Codificando desde 2021.\
+&nbsp;&nbsp;&nbsp;👪 &nbsp;Morando no Brasil com 2 gatos 🐈 e meus pais.\
+&nbsp;&nbsp;&nbsp;🏋️ &nbsp;Treinando quase todos os dias.
 
 <p align="center">
   <a href="mailto:heitorcanhizares@gmail.com?subject=Olá%20Heitor"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 <hr/>
 
 <details>
-  <summary><b>👨‍💻 &nbsp;Main tech knowledge</b></summary>
+  <summary><b>👨‍💻 &nbsp;Principais conhecimentos em tecnologia</b></summary>
   <br/>
 
 
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary><b>📝 &nbsp;Current Studying or planning to</b></summary>
+  <summary><b>📝 &nbsp;Atualmente estudando ou planejando estudar</b></summary>
   <br/>
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)&nbsp;
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
+  <summary><b>⚙️ &nbsp;Estatísticas no GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorcanhizares&hide_border=true&theme=nightowl" />
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-  <summary><b>🏆 &nbsp;My Trophies</b></summary>
+  <summary><b>🏆 &nbsp;Minhas conquistas/troféus</b></summary>
   <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=heitorcanhizares&theme=dracula)](https://github.com/heitorcanhizares/github-profile-trophy)
