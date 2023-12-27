@@ -47,7 +47,7 @@
   <summary><b>📝 &nbsp;Current Studying or planning to</b></summary>
   <br/>
 
-![Rust](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=rust&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-2C2D72?style=flat&logo=rust&logoColor=white)&nbsp;
 
 </details>
 
