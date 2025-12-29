@@ -7,7 +7,7 @@
 
 ### 👨‍🚀 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👷 &nbsp;Currently working with **Business Intelligence & Process Automation** at [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/itaquere/).<br>
+&nbsp;&nbsp;&nbsp;👷 &nbsp;Currently working with **Business Intelligence & Process Automation** at [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/grupo-itaquer-/posts/?feedView=all).<br>
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Full-cycle developer: from **React/Next.js** interfaces to **SQL/SAP** data analysis.<br>
 &nbsp;&nbsp;&nbsp;🤩 &nbsp;Love for science and innovation.<br>
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate about problem solving and daily routines automation.<br>
