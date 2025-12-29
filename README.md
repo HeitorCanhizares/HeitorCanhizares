@@ -7,13 +7,13 @@
 
 ### 👨‍🚀 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👷 &nbsp;Currently working with **Business Intelligence & Process Automation** at [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/itaquere/).
-&nbsp;&nbsp;&nbsp;🚀 &nbsp;Full-cycle developer: from **React/Next.js** interfaces to **SQL/SAP** data analysis.
-&nbsp;&nbsp;&nbsp;🤩 &nbsp;Love for science and innovation.
-&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate about problem solving and daily routines automation.
-&nbsp;&nbsp;&nbsp;📋 &nbsp;Currently researching software architecture, development, and quality.
-&nbsp;&nbsp;&nbsp;⚒️ &nbsp;Coding since 2021.
-&nbsp;&nbsp;&nbsp;👪 &nbsp;Living in Brazil with 2 cats 🐈 and my parents.
+&nbsp;&nbsp;&nbsp;👷 &nbsp;Currently working with **Business Intelligence & Process Automation** at [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/itaquere/).\
+&nbsp;&nbsp;&nbsp;🚀 &nbsp;Full-cycle developer: from **React/Next.js** interfaces to **SQL/SAP** data analysis.\
+&nbsp;&nbsp;&nbsp;🤩 &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate about problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;📋 &nbsp;Currently researching software architecture, development, and quality.\
+&nbsp;&nbsp;&nbsp;⚒️ &nbsp;Coding since 2021.\
+&nbsp;&nbsp;&nbsp;👪 &nbsp;Living in Brazil with 2 cats 🐈 and my parents.\
 &nbsp;&nbsp;&nbsp;🏋️ &nbsp;Working out almost every day.
 
 <p align="center">
@@ -28,25 +28,28 @@
   <br/>
 
   <p><b>Front-End & Languages</b></p>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-  ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)&nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
   
   <br/><br/>
   
   <p><b>Data, ERP & Tools</b></p>
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)&nbsp;
-  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)&nbsp;
-  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)&nbsp;
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;
-  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)&nbsp;
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-2D62A3?style=flat&logo=sap&logoColor=white)&nbsp;
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=flat&logo=chart.js&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011?style=flat&logo=github&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code)&nbsp;
 
 </details>
 
@@ -54,8 +57,8 @@
   <summary><b>📝 &nbsp;Current Studying or planning to</b></summary>
   <br/>
 
-  ![Rust](https://img.shields.io/badge/Rust-2C2D72?style=flat&logo=rust&logoColor=white)&nbsp;
-  ![SAP HANA](https://img.shields.io/badge/SAP_HANA-F0B600?style=flat&logo=sap&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-2C2D72?style=flat&logo=rust&logoColor=white)&nbsp;
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-F0B600?style=flat&logo=sap&logoColor=white)&nbsp;
 
 </details>
 
