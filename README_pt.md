@@ -7,7 +7,7 @@
 
 ### 👨‍🚀 &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;👷 &nbsp;Atualmente trabalhando com **Inteligência de Negócios e Automação de Processos** na [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/itaquere/).<br>
+&nbsp;&nbsp;&nbsp;👷 &nbsp;Atualmente trabalhando com **Inteligência de Negócios e Automação de Processos** na [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/grupo-itaquer-/posts/?feedView=all).<br>
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Desenvolvedor de ciclo completo: de interfaces **React/Next.js** à análise de dados **SQL/SAP**.<br>
 &nbsp;&nbsp;&nbsp;🤩 &nbsp;Amor pela ciência e inovação.<br>
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Apaixonado por resolução de problemas e automação de rotinas diárias.<br>
