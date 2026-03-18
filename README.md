@@ -9,6 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;👷 &nbsp;Currently working with **Business Intelligence & Process Automation** at [Agropecuária Itaquere do Araguaia](https://www.linkedin.com/company/grupo-itaquer-/posts/?feedView=all).<br>
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Full-cycle developer: from **React/Next.js** interfaces to **SQL/SAP** data analysis.<br>
+&nbsp;&nbsp;&nbsp;🖥️ &nbsp;Self-hosting my own infrastructure with **Docker, PostgreSQL and Cloudflare Tunnel**.<br>
 &nbsp;&nbsp;&nbsp;🤩 &nbsp;Love for science and innovation.<br>
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate about problem solving and daily routines automation.<br>
 &nbsp;&nbsp;&nbsp;📋 &nbsp;Currently researching software architecture, development, and quality.<br>
@@ -19,6 +20,7 @@
 <p align="center">
   <a href="mailto:heitorcanhizares@gmail.com?subject=Olá%20Heitor"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/heitorcanhizares/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://heitorcanhizares.net"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
@@ -45,7 +47,9 @@
   <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP" />
+    <img src="https://img.shields.io/badge/SAP_HANA-F0B600?style=flat&logo=sap&logoColor=white" alt="SAP HANA" />
     <img src="https://img.shields.io/badge/Crystal_Reports-2D62A3?style=flat&logo=sap&logoColor=white" alt="Crystal Reports" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white" alt="ChartJS" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white" alt="React Query" />
@@ -56,11 +60,10 @@
 </details>
 
 <details>
-  <summary><b>📝 &nbsp;Current Studying or planning to</b></summary>
+  <summary><b>📝 &nbsp;Current Studying</b></summary>
   <br/>
   <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/Rust-2C2D72?style=flat&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/SAP_HANA-F0B600?style=flat&logo=sap&logoColor=white" alt="SAP HANA" />
   </div>
 </details>
 
