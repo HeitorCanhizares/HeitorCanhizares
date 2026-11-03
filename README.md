@@ -16,6 +16,13 @@ Open to remote front-end or hybrid dev/BI roles. Let's connect!
 
 ---
 
+### Projects
+
+- **[StreamaZap](https://github.com/HeitorCanhizares/streamaZap)** — share your screen and per-app audio with friends over LAN or Radmin VPN. Python, H.264 on the GPU (NVENC, QuickSync, AMF), Opus, adaptive bitrate.
+- **[Kurio](https://github.com/HeitorCanhizares/nft-marketplace)** — NFT marketplace front-end built from a Figma layout, with the full purchase flow running against a mocked REST and real-time API (MSW, Socket.IO). React, TypeScript, TanStack Router and Query, Tailwind CSS, Playwright.
+- **[JusGestio](https://jusgestio.com)** — minimalist legal ERP for Brazilian law firms, multi-tenant SaaS in production. Next.js, PostgreSQL. Closed source.
+- **[cake-estoque](https://github.com/HeitorCanhizares/cake-estoque)** — PPE stock control: equipment batches with certificate and expiry, delivery forms and responsibility terms per employee. PHP, CakePHP 5.
+
 ### Stack
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,postgres,js,php,css,html,nextjs,react,tailwind,bootstrap,redux,vite,astro,nodejs,mysql,sqlite,prisma,docker,linux,vercel,cloudflare,github,git,vscode&perline=12" /></a>
